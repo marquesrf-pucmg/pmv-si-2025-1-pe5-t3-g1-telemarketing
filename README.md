@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * [Alisson Anderson de Carvalho](https://github.com/alessaocarvalho)
 * [Rômulo Ferraz Chaves](https://github.com/RomuloFerrazChaves)
-* Nome completo do aluno 3
+* [Rafael Fernandes Marques](https://github.com/marquesrf-pucmg)
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 
